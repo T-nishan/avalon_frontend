@@ -1,0 +1,47 @@
+
+---Downloaded files---
+The import files for: Home Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/avalon-logistics
+Data file = C:\xampp\htdocs\avalon-logistics/wp-content/themes/gerow/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\avalon-logistics/wp-content/themes/gerow/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\avalon-logistics/wp-content/themes/gerow/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search Here - Imported
+Categories - Categories - Imported
+Gerow Sidebar Posts - Most Popular - Imported
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
